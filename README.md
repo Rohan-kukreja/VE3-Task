@@ -11,42 +11,39 @@ Compute and display summary statistics.
 Count and display missing values.
 Compute and display the correlation matrix.
 
-Data Visualization:
+3) Data Visualization:
 Generate histograms for numerical columns.
 Create pair plots to show relationships between numerical variables.
 Produce a correlation heatmap to visualize correlations between numerical features.
-Technologies Used
+
+4) Technologies Used
 Python: The primary programming language used for backend development.
 Django: The web framework used to build and manage the web application.
 Pandas: A powerful data manipulation and analysis library used to handle the CSV data.
 Matplotlib: A plotting library used to create static, animated, and interactive visualizations.
 Seaborn: A statistical data visualization library based on Matplotlib, used for making attractive and informative statistical graphics.
 
-3) Project Setup
+5) Project Setup
 Prerequisites
 Ensure you have the following installed on your system:
 Python (version 3.7 or later)
 Pip (Python package installer)
 
-4) Installation Steps
+6) Installation Steps
 Clone the Repository:
 Clone the project repository from GitHub to your local machine.
 Create and Activate a Virtual Environment:
 Set up a virtual environment to manage project dependencies.
 
-Install Dependencies:
+7) Install Dependencies:
 Install the required Python packages using pip.
 Set Up the Django Project:
 Configure the Django project and application, ensuring that the application is registered in the project settings.
 Run the Django Development Server:
 Start the development server to test and use the application locally.
 
-5) Usage
+8) Usage
 Access the Application:
 Navigate to the provided URL in your web browser (typically http://127.0.0.1:8000/).
-
-Upload a CSV File:
-Use the upload interface to select and upload a CSV file.
-
-View Analysis and Visualizations:
-Once the file is processed, view the data summaries and visualizations on the results page.
+Upload a CSV File: Use the upload interface to select and upload a CSV file.
+View Analysis and Visualizations: Once the file is processed, view the data summaries and visualizations on the results page.
